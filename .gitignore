@@ -1,6 +1,8 @@
 /nbproject/
 /tmp/cache/
 /tmp/minify/
+/tmp/logs/
 !/tmp/cache/.empty
 !/tmp/minify/.empty
 !/tmp/minify/.htaccess
+!/tmp/logs/.empty
